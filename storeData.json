@@ -8,5 +8,16 @@
         "name":"Inderjit",
         "clas":"MCA",
         "userId":"2"
+    },
+     { 
+        "name":"Khushan",
+        "clas":"MCA",
+        "userId":"3"
+    },
+     {
+        "name":"Yuvraj",
+        "clas":"MCA",
+        "userId":"4"
     }
+
 ]
